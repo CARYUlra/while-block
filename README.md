@@ -149,19 +149,19 @@ Menu interativo simulando um sistema simples de pedidos em uma cafeteria.
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/CARYUlra/while-block.git)
 ```
 
 ### 2. Acesse a pasta do projeto
 
 ```bash
-cd javascript-do-while
+cd while block
 ```
 
 ### 3. Execute o arquivo desejado
 
 ```bash
-node validacao-senha.js
+code .
 ```
 
 ---
