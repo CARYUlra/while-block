@@ -186,4 +186,4 @@ Este projeto permitiu praticar:
 - Manipulação de entrada do usuário
 - Organização de projetos JavaScript
 - Controle de versão com Git
-<img width="500" height="280" alt="DiavoloRequiemGIF (2)" src="https://github.com/user-attachments/assets/dffd7723-b793-4231-9305-3b799a2c7c62" />
+<img width="750" height="500" alt="DiavoloRequiemGIF (2)" src="https://github.com/user-attachments/assets/dffd7723-b793-4231-9305-3b799a2c7c62" />
