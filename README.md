@@ -88,36 +88,36 @@ do...while
 Menu interativo simulando um sistema simples de pedidos em uma cafeteria.
 
 Cardápio:
-Opção	Produto	Valor
-1	Café Expresso	R$ 5,00
-2	Cappuccino	R$ 7,00
-3	Pão de Queijo	R$ 4,00
-0	Finalizar Pedido	-
-Funcionalidades:
-Menu interativo
-Soma automática do pedido
-Validação de opções
-Finalização com valor total
-Conceitos Aplicados:
-Menus interativos
-Estruturas condicionais
-Acumuladores
-Controle de fluxo
-▶️ Como Executar os Projetos
-Executando no Node.js
-Clone o repositório:
-git clone [https://github.com/CARYUlra/while-block.git](https://github.com/CARYUlra/while-block.git)
-Acesse a pasta do projeto:
-cd javascript-do-while
-Execute o arquivo desejado:
-node validacao-senha.js
-✅ Resultados Obtidos
-Implementação correta da estrutura do...while
-Programas funcionando corretamente
-Aplicação de lógica de programação
-Organização e versionamento utilizando Git/GitHub
-Estruturação profissional dos arquivos do projeto
-🎯 Objetivos de Aprendizagem
+Opção	Produto	Valor;
+1	Café Expresso	R$ 5,00;
+2	Cappuccino	R$ 7,00;
+3	Pão de Queijo	R$ 4,00;
+0	Finalizar Pedido;-
+Funcionalidades:;
+Menu interativo;
+Soma automática do pedido;
+Validação de opções;
+Finalização com valor total;
+Conceitos Aplicados:;
+Menus interativos;
+Estruturas condicionais;
+Acumuladores;
+Controle de fluxo;
+▶️ Como Executar os Projetos;
+Executando no Node.js;
+Clone o repositório:;
+git clone [https://github.com/CARYUlra/while-block.git](https://github.com/CARYUlra/while-block.git);
+Acesse a pasta do projeto:;
+cd javascript-do-while;
+Execute o arquivo desejado:;
+node validacao-senha.js;
+✅ Resultados Obtidos;
+Implementação correta da estrutura do...while;
+Programas funcionando corretamente;
+Aplicação de lógica de programação;
+Organização e versionamento utilizando Git/GitHub;
+Estruturação profissional dos arquivos do projeto;
+🎯 Objetivos de Aprendizagem;
 
 Este projeto permitiu praticar:
 
