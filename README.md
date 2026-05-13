@@ -36,7 +36,7 @@ Todos os algoritmos foram testados e versionados utilizando Git e GitHub.
  ┗ 📄 README.md
 📌 Exercícios Desenvolvidos
 1️⃣ Validação de Senha
-
+```
 Sistema simples de autenticação onde o usuário deve informar a senha correta para obter acesso.
 
 Funcionalidades:
@@ -127,3 +127,4 @@ Lógica condicional
 Manipulação de entrada do usuário
 Organização de projetos JavaScript
 Controle de versão com Git
+<img width="1000" height="500" alt="DiavoloRequiemGIF" src="https://github.com/user-attachments/assets/70197819-6a13-4fcd-9b86-4ad06421e995" />
