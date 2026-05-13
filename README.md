@@ -106,7 +106,7 @@ Controle de fluxo
 ▶️ Como Executar os Projetos
 Executando no Node.js
 Clone o repositório:
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone [https://github.com/CARYUlra/while-block.git](https://github.com/CARYUlra/while-block.git)
 Acesse a pasta do projeto:
 cd javascript-do-while
 Execute o arquivo desejado:
